@@ -1,1 +1,1 @@
-@cf/deepseek-ai/deepseek-r1-distill-qwen-32b
+@cf/meta/llama-3.3-70b-instruct-fp8-fast
